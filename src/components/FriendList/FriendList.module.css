@@ -1,0 +1,10 @@
+.friendList {
+  grid-area: fl;
+
+  margin-bottom: 10px;
+  margin-top: 20px;
+  list-style: none;
+  font-family: Helvetica, sans-serif;
+  font-size: 24px;
+  color: #4C4E52;  
+}

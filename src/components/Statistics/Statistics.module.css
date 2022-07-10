@@ -1,0 +1,37 @@
+.statistics{
+    grid-area: st;
+
+    margin: auto;
+    min-width: 420px;
+    font-family: Helvetica, sans-serif;
+    color: #4C4E52;
+    
+}
+
+.title{
+text-align: center;
+text-transform: uppercase;
+font-size: 28px;
+}
+
+.statList{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    list-style: none;
+
+}
+.item{
+min-width: 60px;
+padding: 30px;
+}
+.label{
+display: block;
+font-size: 18px;
+}
+
+.percentage::after{
+    content: "\0025";
+}
+.percentage{
+font-size: 28px;
+}
