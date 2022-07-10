@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/OxanaDemova/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/OxanaDemova/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/OxanaDemova/goit-react-hw-01-components/static/css/main.fa23ecbe.css",
+    "main.js": "/OxanaDemova/goit-react-hw-01-components/static/js/main.fc2b2ab5.js",
     "index.html": "/OxanaDemova/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/OxanaDemova/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/OxanaDemova/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.fa23ecbe.css.map": "/OxanaDemova/goit-react-hw-01-components/static/css/main.fa23ecbe.css.map",
+    "main.fc2b2ab5.js.map": "/OxanaDemova/goit-react-hw-01-components/static/js/main.fc2b2ab5.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.fa23ecbe.css",
+    "static/js/main.fc2b2ab5.js"
   ]
 }
